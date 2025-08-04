@@ -12,7 +12,7 @@
 This project uses an **Artificial Neural Network (ANN)** to predict whether a bank customer is likely to **stay** or **leave (churn)**. The model is built with TensorFlow/Keras and deployed as an interactive web application using Streamlit.
 
 -   **Current PoC deployment**: [Streamlit Web App](https://ann-classification-churn-hritwick.streamlit.app/)
--   **Model Performance**: Achieved **~87% accuracy** with a validation loss of ~0.35.
+-   **Model Performance**: Achieved **~87% accuracy** with a **validation loss of ~0.35**.
 -   **Training**: Early stopping was applied after ~18 epochs to prevent overfitting.
 
 ---
@@ -92,8 +92,8 @@ Prediction: 0 → Customer is likely to Stay
 
 1️⃣ **Clone the repository**
 ```bash
-git clone [https://github.com/yourusername/bank-churn-ann.git](https://github.com/yourusername/bank-churn-ann.git)
-cd bank-churn-ann
+git clone https://github.com/hritwickmanna/ANN-Classification-Churn.git
+cd ANN-Classification-Churn
 ```
 
 2️⃣ **Install dependencies**
